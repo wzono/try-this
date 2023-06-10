@@ -1,0 +1,26 @@
+{
+  "name": "@wzono/clsx",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.js",
+    "default": "./dist/index.js"
+  },
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@wzono/eslint-config": "^0.1.1",
+    "eslint": "^8.42.0",
+    "tsup": "^6.7.0"
+  }
+}

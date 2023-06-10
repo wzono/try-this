@@ -1,12 +1,12 @@
 {
   "name": "@wzono/try-this",
-  "private": true,
   "version": "1.0.0",
+  "private": true,
   "description": "A repository for experimenting with frameworks, libraries, and functions, and exploring different programming concepts.",
+  "author": "Welsey Zon <wzono.me@gmail.com>",
+  "license": "MIT",
   "keywords": [
     "playground",
     "try this"
-  ],
-  "author": "Welsey Zon <wzono.me@gmail.com>",
-  "license": "MIT"
+  ]
 }
